@@ -49,10 +49,10 @@ fldigi (flrig flmsg fl*)
 	État: OK
 Foxtelem 
 	Système: Multiplateforme 
-	Fonction: "Décodage télémétrie satellite 
-	Licence:  
-	Prix:  
-	URL:  
+	Fonction: "Décodage télémétrie satellite par l'AMSAT" 
+	Licence: Libre 
+	Prix: Gratuit 
+	URL: "https://www.amsat.org/foxtelem-software-for-windows-mac-linux/ 
 	État: 
 FreeDV 
 	Système: Multiplateforme 
@@ -84,11 +84,11 @@ PAT
 	État: OK
 rtl_433 
 	Système: Multiplateforme 
-	Fonction: "Décodage de données 433/868/... 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Décodage de données 433/868/...  (sondes de températures- de pneus ...)" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/merbanan/rtl_433 
+	État: OK
 WaveSDR 
 	Système: MacOS 
 	Fonction: Réception SDR 
@@ -105,11 +105,11 @@ weile.io
 	État: OK
 WSJTX 
 	Système: Multiplateforme 
-	Fonction: "Modes numériques FT4; FT8; JT4; JT9; JT65;  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Modes numériques FT4- FT8- JT4- JT9- JT65- QRA64- ISCAT- MSK144- JS8CALL Émission et réception" 
+	Licence: Open   
+	Prix: Gratuit 
+	URL: http://physics.princeton.edu/pulsar/K1JT/wsjtx.html 
+	État: OK
 WXtoimg 
 	Système: Multiplateforme 
 	Fonction: Décodage images météo satellites 

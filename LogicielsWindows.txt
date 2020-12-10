@@ -42,10 +42,10 @@ fldigi (flrig flmsg fl*)
 	État: OK
 Foxtelem 
 	Système: Multiplateforme 
-	Fonction: "Décodage télémétrie satellite 
-	Licence:  
-	Prix:  
-	URL:  
+	Fonction: "Décodage télémétrie satellite par l'AMSAT" 
+	Licence: Libre 
+	Prix: Gratuit 
+	URL: "https://www.amsat.org/foxtelem-software-for-windows-mac-linux/ 
 	État: 
 FreeDV 
 	Système: Multiplateforme 
@@ -63,17 +63,17 @@ GNURadio
 	État: OK
 HamRadioDeluxe 
 	Système: Windows 
-	Fonction: "-Logbook 
-	Licence:  
-	Prix:  
-	URL:  
+	Fonction: "-Logbook -RIG Control -Satellite et Rotor Control - Décodage multimode" 
+	Licence: Propriétaire 
+	Prix: "env. 100 USD old: gratuite" 
+	URL: "https://www.hamradiodeluxe.com/ 
 	État: 
 MMSSTV 
 	Système: Windows 
-	Fonction: "Décodage SSTV 
-	Licence:  
-	Prix:  
-	URL:  
+	Fonction: "Décodage SSTV Émission SSTV" 
+	Licence: "Propriétaire Libre depuis 2013" 
+	Prix: Gratuit 
+	URL: "https://hamsoft.ca/pages/mmsstv.php 
 	État: 
 NOAA-APT 
 	Système: Multiplateforme 
@@ -112,11 +112,11 @@ ROS (de EA5HVK)
 	État: OK
 rtl_433 
 	Système: Multiplateforme 
-	Fonction: "Décodage de données 433/868/... 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Décodage de données 433/868/...  (sondes de températures- de pneus ...)" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/merbanan/rtl_433 
+	État: OK
 SDR Uno 
 	Système: Windows 
 	Fonction: Réception SDR 
@@ -133,11 +133,11 @@ SDRSharp
 	État: OK
 UIVIEW-AGWPE 
 	Système: Windows 
-	Fonction: "AX25-Packet 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "AX25-Packet APRS" 
+	Licence: Propriétaire 
+	Prix: "Donation pour lutte contre cancer" 
+	URL: http://f6bxm.free.fr/carte%20son/7uiview.htm 
+	État: OK
 VARA de EA5HVK 
 	Système: Windows 
 	Fonction: Modem HF 
@@ -161,11 +161,11 @@ Win-Test
 	État: OK
 WSJTX 
 	Système: Multiplateforme 
-	Fonction: "Modes numériques FT4; FT8; JT4; JT9; JT65;  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Modes numériques FT4- FT8- JT4- JT9- JT65- QRA64- ISCAT- MSK144- JS8CALL Émission et réception" 
+	Licence: Open   
+	Prix: Gratuit 
+	URL: http://physics.princeton.edu/pulsar/K1JT/wsjtx.html 
+	État: OK
 WXtoimg 
 	Système: Multiplateforme 
 	Fonction: Décodage images météo satellites 

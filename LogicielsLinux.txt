@@ -56,10 +56,10 @@ fldigi (flrig flmsg fl*)
 	État: OK
 Foxtelem 
 	Système: Multiplateforme 
-	Fonction: "Décodage télémétrie satellite 
-	Licence:  
-	Prix:  
-	URL:  
+	Fonction: "Décodage télémétrie satellite par l'AMSAT" 
+	Licence: Libre 
+	Prix: Gratuit 
+	URL: "https://www.amsat.org/foxtelem-software-for-windows-mac-linux/ 
 	État: 
 FreeDV 
 	Système: Multiplateforme 
@@ -87,8 +87,8 @@ HAM-Clock
 	Fonction: Horloge 
 	Licence: Open 
 	Prix: Gratuit 
-	URL: "https://www.clearskyinstitute.com/ham/HamClock/ 
-	État: 
+	URL: "https://www.clearskyinstitute.com/ham/HamClock/ https://dl1gkk.com/ham-clock-raspberry-pi/" 
+	État: OK
 HAMOS 
 	Système: Linux 
 	Fonction: Distribution Linux 
@@ -98,11 +98,11 @@ HAMOS
 	État: Abandonné
 hblink3 + hbmon 
 	Système: Linux 
-	Fonction: "Interconnexion de relais radio 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Interconnexion de relais radio Master DMR" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: "https://hblink-francophone.frama.site/ https://github.com/HBLink-org" 
+	État: OK
 NOAA-APT 
 	Système: Multiplateforme 
 	Fonction: Décodage images météo satellites 
@@ -112,11 +112,11 @@ NOAA-APT
 	État: OK
 OpenWebRX 
 	Système: Linux 
-	Fonction: "Réception SDR  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Réception SDR + Décodage de quelques modes numériques" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.openwebrx.de/ 
+	État: OK
 PAT 
 	Système: Multiplateforme 
 	Fonction: Client Winlink 
@@ -126,11 +126,11 @@ PAT
 	État: OK
 RadioSonde Auto RX 
 	Système: Linux 
-	Fonction: "Décodage et cartographie télémétrie 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Décodage et cartographie télémétrie radiosondes" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/projecthorus/radiosonde_auto_rx 
+	État: OK
 RPI OpenWebRX 
 	Système: Linux 
 	Fonction: Distribution pour avoir un openwebrx 
@@ -140,11 +140,11 @@ RPI OpenWebRX
 	État: OK
 RPI Pistar 
 	Système: Linux 
-	Fonction: "Controle de carte de mode numérique 
+	Fonction: "Controle de carte de mode numérique et d'interconnexion sur réseau" 
 	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Prix: Gratuit 
+	URL: https://www.pistar.uk/ 
+	État: OK
 RPI Satnogs / Artifacts 
 	Système: Linux 
 	Fonction: Distribution pour satnogs 
@@ -154,18 +154,18 @@ RPI Satnogs / Artifacts
 	État: OK
 rtl_433 
 	Système: Multiplateforme 
-	Fonction: "Décodage de données 433/868/... 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Décodage de données 433/868/...  (sondes de températures- de pneus ...)" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/merbanan/rtl_433 
+	État: OK
 rtl_fm_streamer 
 	Système: Linux 
-	Fonction: "Réception FM Stéréo vers streaming 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Réception FM Stéréo vers streaming avec VLC- mplayer- Kodi et cie" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/AlbrechtL/rtl_fm_streamer 
+	État: OK
 Skywave Linux 
 	Système: Linux 
 	Fonction: Distribution orientée écoute 
@@ -196,11 +196,11 @@ weile.io
 	État: OK
 WSJTX 
 	Système: Multiplateforme 
-	Fonction: "Modes numériques FT4; FT8; JT4; JT9; JT65;  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Fonction: "Modes numériques FT4- FT8- JT4- JT9- JT65- QRA64- ISCAT- MSK144- JS8CALL Émission et réception" 
+	Licence: Open   
+	Prix: Gratuit 
+	URL: http://physics.princeton.edu/pulsar/K1JT/wsjtx.html 
+	État: OK
 WXtoimg 
 	Système: Multiplateforme 
 	Fonction: Décodage images météo satellites 
