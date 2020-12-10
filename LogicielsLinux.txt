@@ -1,0 +1,231 @@
+Cubic SDR 
+	Système: Multiplateforme 
+	Fonction: Réception SDR (émission?) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/cjcliffe/CubicSDR 
+	État: Arrêté ?
+D-RATS 
+	Système: Multiplateforme 
+	Fonction: "Tranfert de fichiers et Tchat sous DSTAR 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+DATV Express 
+	Système: Multiplateforme 
+	Fonction: Émission Réception DATV 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.datv-express.com/ 
+	État: OK
+Direwolf 
+	Système: Multiplateforme 
+	Fonction: TNC Packet Radio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/wb2osz/direwolf 
+	État: OK
+DragonOS 
+	Système: Linux 
+	Fonction: Distribution Linux 
+	Licence:  
+	Prix:  
+	URL: https://sourceforge.net/projects/dragonos-10/ 
+	État: OK
+dump1090 
+	Système: Multiplateforme 
+	Fonction: Réception de ADSB (Avions) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/adsbxchange/dump1090-fa 
+	État: OK
+dxrfd 
+	Système: Linux 
+	Fonction: Réflecteur DSTAR 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/w1bsb/dxrfd 
+	État: OK
+fldigi (flrig flmsg fl*) 
+	Système: Multiplateforme 
+	Fonction: Décodage multi-modes 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://sourceforge.net/projects/fldigi/  
+	État: OK
+Foxtelem 
+	Système: Multiplateforme 
+	Fonction: "Décodage télémétrie satellite 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+FreeDV 
+	Système: Multiplateforme 
+	Fonction: Voix numérique radioamateur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://freedv.org/ 
+	État: OK
+FreeDV-TNC 
+	Système: Linux 
+	Fonction: TNC basé sur FreeDV 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/xssfox/freedv-tnc 
+	État: OK
+GNURadio 
+	Système: Multiplateforme 
+	Fonction: Traitement du signal 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.gnuradio.org/ 
+	État: OK
+HAM-Clock 
+	Système: Linux 
+	Fonction: Horloge 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: "https://www.clearskyinstitute.com/ham/HamClock/ 
+	État: 
+HAMOS 
+	Système: Linux 
+	Fonction: Distribution Linux 
+	Licence:  
+	Prix:  
+	URL: https://sourceforge.net/projects/hamos/ 
+	État: Abandonné
+hblink3 + hbmon 
+	Système: Linux 
+	Fonction: "Interconnexion de relais radio 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+NOAA-APT 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://noaa-apt.mbernardi.com.ar/ 
+	État: OK
+OpenWebRX 
+	Système: Linux 
+	Fonction: "Réception SDR  
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+PAT 
+	Système: Multiplateforme 
+	Fonction: Client Winlink 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://getpat.io/ 
+	État: OK
+RadioSonde Auto RX 
+	Système: Linux 
+	Fonction: "Décodage et cartographie télémétrie 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+RPI OpenWebRX 
+	Système: Linux 
+	Fonction: Distribution pour avoir un openwebrx 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://www.openwebrx.de/download/rpi.php 
+	État: OK
+RPI Pistar 
+	Système: Linux 
+	Fonction: "Controle de carte de mode numérique 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+RPI Satnogs / Artifacts 
+	Système: Linux 
+	Fonction: Distribution pour satnogs 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://wiki.satnogs.org/Raspberry_Pi 
+	État: OK
+rtl_433 
+	Système: Multiplateforme 
+	Fonction: "Décodage de données 433/868/... 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+rtl_fm_streamer 
+	Système: Linux 
+	Fonction: "Réception FM Stéréo vers streaming 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+Skywave Linux 
+	Système: Linux 
+	Fonction: Distribution orientée écoute 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://skywavelinux.com/ 
+	État: OK
+SRSLTE 
+	Système: Linux 
+	Fonction: Implémentation 3GPP 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.srslte.com/ 
+	État: OK
+SVXLink SVXReflector 
+	Système: Linux 
+	Fonction: Réflecteur analogique 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/sm0svx/svxlink 
+	État: OK
+weile.io 
+	Système: Multiplateforme 
+	Fonction: Réception DAB  
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/AlbrechtL/welle.io 
+	État: OK
+WSJTX 
+	Système: Multiplateforme 
+	Fonction: "Modes numériques FT4; FT8; JT4; JT9; JT65;  
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+WXtoimg 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://wxtoimgrestored.xyz/downloads/ 
+	État: Abandonné
+xastir 
+	Système: Multiplateforme 
+	Fonction: Réception/Émission/Digipeater APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://xastir.org/index.php/Main_Page 
+	État: OK
+Xnec2c 
+	Système: Linux 
+	Fonction: Calcul d'antennes 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.5b4az.org/ 
+	État: OK
+YAAC 
+	Système: Multiplateforme 
+	Fonction: Client APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.ka2ddo.org/ka2ddo/YAAC.html 
+	État: OK

@@ -1,0 +1,189 @@
+Cubic SDR 
+	Système: Multiplateforme 
+	Fonction: Réception SDR (émission?) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/cjcliffe/CubicSDR 
+	État: Arrêté ?
+D-RATS 
+	Système: Multiplateforme 
+	Fonction: "Tranfert de fichiers et Tchat sous DSTAR 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+DATV Express 
+	Système: Multiplateforme 
+	Fonction: Émission Réception DATV 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.datv-express.com/ 
+	État: OK
+Direwolf 
+	Système: Multiplateforme 
+	Fonction: TNC Packet Radio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/wb2osz/direwolf 
+	État: OK
+dump1090 
+	Système: Multiplateforme 
+	Fonction: Réception de ADSB (Avions) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/adsbxchange/dump1090-fa 
+	État: OK
+fldigi (flrig flmsg fl*) 
+	Système: Multiplateforme 
+	Fonction: Décodage multi-modes 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://sourceforge.net/projects/fldigi/  
+	État: OK
+Foxtelem 
+	Système: Multiplateforme 
+	Fonction: "Décodage télémétrie satellite 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+FreeDV 
+	Système: Multiplateforme 
+	Fonction: Voix numérique radioamateur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://freedv.org/ 
+	État: OK
+GNURadio 
+	Système: Multiplateforme 
+	Fonction: Traitement du signal 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.gnuradio.org/ 
+	État: OK
+HamRadioDeluxe 
+	Système: Windows 
+	Fonction: "-Logbook 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+MMSSTV 
+	Système: Windows 
+	Fonction: "Décodage SSTV 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+NOAA-APT 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://noaa-apt.mbernardi.com.ar/ 
+	État: OK
+Orbitron 
+	Système: Windows 
+	Fonction: Suivi satellite 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: http://www.stoff.pl/ 
+	État: Abandonné
+PAT 
+	Système: Multiplateforme 
+	Fonction: Client Winlink 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://getpat.io/ 
+	État: OK
+Pinpoint APRS 
+	Système: Windows 
+	Fonction: Cartographie APRS 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.pinpointaprs.com/download.html 
+	État: OK
+ROS (de EA5HVK) 
+	Système: Windows 
+	Fonction: Mode numérique 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://rosmodem.wordpress.com/ 
+	État: OK
+rtl_433 
+	Système: Multiplateforme 
+	Fonction: "Décodage de données 433/868/... 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+SDR Uno 
+	Système: Windows 
+	Fonction: Réception SDR 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.sdrplay.com/sdruno/  
+	État: OK
+SDRSharp 
+	Système: Windows 
+	Fonction: Réception SDR 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://airspy.com/download/ 
+	État: OK
+UIVIEW-AGWPE 
+	Système: Windows 
+	Fonction: "AX25-Packet 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+VARA de EA5HVK 
+	Système: Windows 
+	Fonction: Modem HF 
+	Licence: Propriétaire 
+	Prix: Gratuit / 50€ 
+	URL: https://rosmodem.wordpress.com/ 
+	État: OK
+weile.io 
+	Système: Multiplateforme 
+	Fonction: Réception DAB  
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/AlbrechtL/welle.io 
+	État: OK
+Win-Test 
+	Système: Windows 
+	Fonction: Gestion de concours radio 
+	Licence: Propriétaire 
+	Prix: 50€ 
+	URL: http://www.win-test.com/  
+	État: OK
+WSJTX 
+	Système: Multiplateforme 
+	Fonction: "Modes numériques FT4; FT8; JT4; JT9; JT65;  
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+WXtoimg 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://wxtoimgrestored.xyz/downloads/ 
+	État: Abandonné
+xastir 
+	Système: Multiplateforme 
+	Fonction: Réception/Émission/Digipeater APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://xastir.org/index.php/Main_Page 
+	État: OK
+YAAC 
+	Système: Multiplateforme 
+	Fonction: Client APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.ka2ddo.org/ka2ddo/YAAC.html 
+	État: OK

@@ -1,0 +1,133 @@
+Cocoa1090 
+	Système: MacOS 
+	Fonction: Réception ADSB (avions) 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.blackcatsystems.com/software/cocoa1090.html 
+	État: OK
+Cubic SDR 
+	Système: Multiplateforme 
+	Fonction: Réception SDR (émission?) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/cjcliffe/CubicSDR 
+	État: Arrêté ?
+D-RATS 
+	Système: Multiplateforme 
+	Fonction: "Tranfert de fichiers et Tchat sous DSTAR 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+DATV Express 
+	Système: Multiplateforme 
+	Fonction: Émission Réception DATV 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.datv-express.com/ 
+	État: OK
+Direwolf 
+	Système: Multiplateforme 
+	Fonction: TNC Packet Radio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/wb2osz/direwolf 
+	État: OK
+dump1090 
+	Système: Multiplateforme 
+	Fonction: Réception de ADSB (Avions) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/adsbxchange/dump1090-fa 
+	État: OK
+fldigi (flrig flmsg fl*) 
+	Système: Multiplateforme 
+	Fonction: Décodage multi-modes 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://sourceforge.net/projects/fldigi/  
+	État: OK
+Foxtelem 
+	Système: Multiplateforme 
+	Fonction: "Décodage télémétrie satellite 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+FreeDV 
+	Système: Multiplateforme 
+	Fonction: Voix numérique radioamateur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://freedv.org/ 
+	État: OK
+GNURadio 
+	Système: Multiplateforme 
+	Fonction: Traitement du signal 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.gnuradio.org/ 
+	État: OK
+NOAA-APT 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://noaa-apt.mbernardi.com.ar/ 
+	État: OK
+PAT 
+	Système: Multiplateforme 
+	Fonction: Client Winlink 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://getpat.io/ 
+	État: OK
+rtl_433 
+	Système: Multiplateforme 
+	Fonction: "Décodage de données 433/868/... 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+WaveSDR 
+	Système: MacOS 
+	Fonction: Réception SDR 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://github.com/getoffmyhack/waveSDR 
+	État: OK
+weile.io 
+	Système: Multiplateforme 
+	Fonction: Réception DAB  
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/AlbrechtL/welle.io 
+	État: OK
+WSJTX 
+	Système: Multiplateforme 
+	Fonction: "Modes numériques FT4; FT8; JT4; JT9; JT65;  
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+WXtoimg 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://wxtoimgrestored.xyz/downloads/ 
+	État: Abandonné
+xastir 
+	Système: Multiplateforme 
+	Fonction: Réception/Émission/Digipeater APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://xastir.org/index.php/Main_Page 
+	État: OK
+YAAC 
+	Système: Multiplateforme 
+	Fonction: Client APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.ka2ddo.org/ka2ddo/YAAC.html 
+	État: OK
