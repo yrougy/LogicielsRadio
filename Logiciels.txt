@@ -1,0 +1,546 @@
+"DroidSSTV DroidrTTY DroidPSK" 
+	Système: Android 
+	Fonction: "Émission/Réception SSTV TTY PSK" 
+	Licence: Propriétaire 
+	Prix: "7 6 6" 
+	URL: "https://play.google.com/store/apps/details?id=com.wolphi.sstv&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.droidrtty&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.psk31&hl=fr&gl=US" 
+	État: OK
+"Universal HAMRadio Remote" 
+	Système: Raspberrypi 
+	Fonction: Pilotage via Web d'un émetteur récepteur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5 
+	État: OK
+Amateur Radio Toolkit 
+	Système: Android 
+	Fonction: "Calculateur et rappels (antennes gains ...)" 
+	Licence: Propriétaire 
+	Prix: "Gratuit et Payant" 
+	URL: https://play.google.com/store/apps/details?id=com.daveyhollenberg.amateurradiotoolkit&hl=en 
+	État: OK
+AmsatDroid 
+	Système: Android 
+	Fonction: Suivi de satellites 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://play.google.com/store/apps/details?id=uk.me.g4dpz.HamSatDroid&hl=fr&gl=US 
+	État: OK
+APRSDroid 
+	Système: Android 
+	Fonction: APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: "https://aprsdroid.org/ https://play.google.com/store/apps/details?id=org.aprsdroid.app&hl=fr&gl=US" 
+	État: OK
+ARDOP 
+	Système: Windows/Multi? 
+	Fonction: Mode numérique 
+	Licence:  
+	Prix:  
+	URL: https://ardop.groups.io/g/main/subgroups 
+	État: OK
+certaines conditions" 
+	Système: https://www.sartrack.co.nz/ 
+	Fonction: OK 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+Cocoa1090 
+	Système: MacOS 
+	Fonction: Réception ADSB (avions) 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.blackcatsystems.com/software/cocoa1090.html 
+	État: OK
+Cubic SDR 
+	Système: Multiplateforme 
+	Fonction: Réception SDR (émission?) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/cjcliffe/CubicSDR 
+	État: Arrêté ?
+D-RATS 
+	Système: Multiplateforme 
+	Fonction: "Tranfert de fichiers et Tchat sous DSTAR 
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+DATV Express 
+	Système: Multiplateforme 
+	Fonction: Émission Réception DATV 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.datv-express.com/ 
+	État: OK
+Direwolf 
+	Système: Multiplateforme 
+	Fonction: TNC Packet Radio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/wb2osz/direwolf 
+	État: OK
+DragonOS 
+	Système: Linux 
+	Fonction: Distribution Linux 
+	Licence:  
+	Prix:  
+	URL: https://sourceforge.net/projects/dragonos-10/ 
+	État: OK
+dump1090 
+	Système: Multiplateforme 
+	Fonction: Réception de ADSB (Avions) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/adsbxchange/dump1090-fa 
+	État: OK
+dxrfd 
+	Système: Linux 
+	Fonction: Réflecteur DSTAR 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/w1bsb/dxrfd 
+	État: OK
+et AX25" 
+	Système: Open 
+	Fonction: Gratuit 
+	Licence: http://www.dstarinfo.com/drats.aspx 
+	Prix: OK 
+	URL:  
+	État: 
+et http://www.asfi-fr.com/vrac/index.php?path=Radio%2FHRD/" 
+	Système: OK 
+	Fonction:  
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+fldigi (flrig flmsg fl*) 
+	Système: Multiplateforme 
+	Fonction: Décodage multi-modes 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://sourceforge.net/projects/fldigi/  
+	État: OK
+Foxtelem 
+	Système: Multiplateforme 
+	Fonction: "Décodage télémétrie satellite par l'AMSAT" 
+	Licence: Libre 
+	Prix: Gratuit 
+	URL: "https://www.amsat.org/foxtelem-software-for-windows-mac-linux/ 
+	État: 
+FreeDV 
+	Système: Multiplateforme 
+	Fonction: Voix numérique radioamateur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://freedv.org/ 
+	État: OK
+FreeDV-TNC 
+	Système: Linux 
+	Fonction: TNC basé sur FreeDV 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/xssfox/freedv-tnc 
+	État: OK
+GNURadio 
+	Système: Multiplateforme 
+	Fonction: Traitement du signal 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.gnuradio.org/ 
+	État: OK
+GPredict 
+	Système: Linux / MacOS 
+	Fonction: Suivi de satellites 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://gpredict.oz9aec.net/index.php 
+	État: OK
+GQRX 
+	Système: Linux / MacOS 
+	Fonction: Réception SDR + AX25 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://gqrx.dk/  
+	État: OK
+GridTracker 
+	Système: "Multiplateforme (ARM et x86)" 
+	Fonction: "Affichage de carte pour WSJTX notamment" 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://gridtracker.org/grid-tracker/  
+	État: OK
+HAM-Clock 
+	Système: Linux 
+	Fonction: Horloge 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: "https://www.clearskyinstitute.com/ham/HamClock/ https://dl1gkk.com/ham-clock-raspberry-pi/" 
+	État: OK
+HAMOS 
+	Système: Linux 
+	Fonction: Distribution Linux 
+	Licence:  
+	Prix:  
+	URL: https://sourceforge.net/projects/hamos/ 
+	État: Abandonné
+HAMPi 
+	Système: Raspberrypi 
+	Fonction: Distribution Linux Raspberry Pi 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/dslotter/HamPi 
+	État: OK
+HamRadioDeluxe 
+	Système: Windows 
+	Fonction: "-Logbook -RIG Control -Satellite et Rotor Control - Décodage multimode" 
+	Licence: Propriétaire 
+	Prix: "env. 100 USD old: gratuite" 
+	URL: "https://www.hamradiodeluxe.com/ 
+	État: 
+hblink3 + hbmon 
+	Système: Linux 
+	Fonction: "Interconnexion de relais radio Master DMR" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: "https://hblink-francophone.frama.site/ https://github.com/HBLink-org" 
+	État: OK
+Heavens Above 
+	Système: Android + Web 
+	Fonction: Suivi de satellites 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.heavens-above.com/ 
+	État: OK
+http://mm-open.org/" 
+	Système: OK 
+	Fonction:  
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+https://github.com/ac2cz/FoxTelem" 
+	Système: OK 
+	Fonction:  
+	Licence:  
+	Prix:  
+	URL:  
+	État: 
+MMSSTV 
+	Système: Windows 
+	Fonction: "Décodage SSTV Émission SSTV" 
+	Licence: "Propriétaire Libre depuis 2013" 
+	Prix: Gratuit 
+	URL: "https://hamsoft.ca/pages/mmsstv.php 
+	État: 
+Morse Code Reader 
+	Système: Android 
+	Fonction: Décodage Morse 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://play.google.com/store/apps/details?hl=en&id=org.jfedor.morsecode 
+	État: OK
+multimon-ng 
+	Système: Linux / MacOS 
+	Fonction: "Décodage de modes (POCSAG AFSK etc)" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/EliasOenal/multimon-ng 
+	État: OK
+MySondygo 
+	Système: Android 
+	Fonction: Suivi Radiosonde avec module TTGO 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://play.google.com/store/apps/details?id=org.mysondy.altervista.mysondygo&hl=fr&gl=US 
+	État: OK
+NOAA-APT 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://noaa-apt.mbernardi.com.ar/ 
+	État: OK
+Nom 
+	Système: Plateforme 
+	Fonction: À quoi ça sert ? 
+	Licence: Open / Propriétaire 
+	Prix: Prix 
+	URL: URL 
+	État: État
+OpenAirInterface 
+	Système:  
+	Fonction: Implémentation 3GPP 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.openairinterface.org/ 
+	État: OK
+OpenWebRX 
+	Système: Linux 
+	Fonction: "Réception SDR + Décodage de quelques modes numériques" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.openwebrx.de/ 
+	État: OK
+Orbitron 
+	Système: Windows 
+	Fonction: Suivi satellite 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: http://www.stoff.pl/ 
+	État: Abandonné
+PAT 
+	Système: Multiplateforme 
+	Fonction: Client Winlink 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://getpat.io/ 
+	État: OK
+Pinpoint APRS 
+	Système: Windows 
+	Fonction: Cartographie APRS 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.pinpointaprs.com/download.html 
+	État: OK
+PI_Build 
+	Système: Raspberrypi 
+	Fonction: Installeur pour applis radio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/km4ack/pi-build 
+	État: OK
+QSSTV 
+	Système: Linux / MacOS? 
+	Fonction: SSTV + DRM 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://users.telenet.be/on4qz/index.html 
+	État: OK
+QT-DAB 
+	Système: Linux/Windows 
+	Fonction: Réception DAB (RNT) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/JvanKatwijk/qt-dab/releases 
+	État: OK
+RadioSonde Auto RX 
+	Système: Linux 
+	Fonction: "Décodage et cartographie télémétrie radiosondes" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/projecthorus/radiosonde_auto_rx 
+	État: OK
+Robot36 
+	Système: Android 
+	Fonction: Décodage SSTV 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://play.google.com/store/apps/details?id=xdsopl.robot36&hl=fr&gl=US 
+	État: OK
+ROS (de EA5HVK) 
+	Système: Windows 
+	Fonction: Mode numérique 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://rosmodem.wordpress.com/ 
+	État: OK
+RPI OpenWebRX 
+	Système: Linux 
+	Fonction: Distribution pour avoir un openwebrx 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://www.openwebrx.de/download/rpi.php 
+	État: OK
+RPI Pistar 
+	Système: Linux 
+	Fonction: "Controle de carte de mode numérique et d'interconnexion sur réseau" 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://www.pistar.uk/ 
+	État: OK
+RPI Satnogs / Artifacts 
+	Système: Linux 
+	Fonction: Distribution pour satnogs 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://wiki.satnogs.org/Raspberry_Pi 
+	État: OK
+RPITX 
+	Système: Raspberrypi 
+	Fonction: Emetteur pour le raspberry pi 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/F5OEO/rpitx 
+	État: OK
+rtl_433 
+	Système: Multiplateforme 
+	Fonction: "Décodage de données 433/868/...  (sondes de températures- de pneus ...)" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/merbanan/rtl_433 
+	État: OK
+rtl_fm_streamer 
+	Système: Linux 
+	Fonction: "Réception FM Stéréo vers streaming avec VLC- mplayer- Kodi et cie" 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/AlbrechtL/rtl_fm_streamer 
+	État: OK
+SARTrack 
+	Système: Windows/Android 
+	Fonction: APRS pour Search & Rescue 
+	Licence: Propriétaire 
+	Prix: "Gratuit sous  
+	URL:  
+	État: 
+SDR Uno 
+	Système: Windows 
+	Fonction: Réception SDR 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.sdrplay.com/sdruno/  
+	État: OK
+SDRAngel 
+	Système: Linux / Windows 10 
+	Fonction: Récepteur/Émetteur SDR 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/f4exb/sdrangel 
+	État: OK
+SDRSharp 
+	Système: Windows 
+	Fonction: Réception SDR 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://airspy.com/download/ 
+	État: OK
+SDRTouch 
+	Système: Android 
+	Fonction: Réception SDR 
+	Licence: Propriétaire 
+	Prix: 7 
+	URL: https://play.google.com/store/apps/details?id=marto.androsdr2&hl=fr&gl=US 
+	État: OK
+Skywave Linux 
+	Système: Linux 
+	Fonction: Distribution orientée écoute 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://skywavelinux.com/ 
+	État: OK
+SmallDV 
+	Système: Raspberrypi 
+	Fonction: Voix Numérique radioamateur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.kk5jy.net/smalldv-v1/ 
+	État: OK
+SRSLTE 
+	Système: Linux 
+	Fonction: Implémentation 3GPP 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.srslte.com/ 
+	État: OK
+SSTVEncoder 
+	Système: Android 
+	Fonction: Emission SSTV 
+	Licence: Libre 
+	Prix: Gratuit 
+	URL: https://play.google.com/store/apps/details?id=om.sstvencoder 
+	État: OK
+Suite UZ7HO 
+	Système: Windows  
+	Fonction: Suite pour le packet radio AX25 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: http://uz7.ho.ua/packetradio.htm 
+	État: OK
+SVXLink SVXReflector 
+	Système: Linux 
+	Fonction: Réflecteur analogique 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/sm0svx/svxlink 
+	État: OK
+UIVIEW-AGWPE 
+	Système: Windows 
+	Fonction: "AX25-Packet APRS" 
+	Licence: Propriétaire 
+	Prix: "Donation pour lutte contre cancer" 
+	URL: http://f6bxm.free.fr/carte%20son/7uiview.htm 
+	État: OK
+VARA de EA5HVK 
+	Système: Windows 
+	Fonction: Modem HF 
+	Licence: Propriétaire 
+	Prix: Gratuit / 50€ 
+	URL: https://rosmodem.wordpress.com/ 
+	État: OK
+VLS Logger 
+	Système: Android 
+	Fonction: Logbook 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://play.google.com/store/apps/details?id=com.vls.logger&hl=fr&gl=US 
+	État: OK
+WaveSDR 
+	Système: MacOS 
+	Fonction: Réception SDR 
+	Licence:  
+	Prix: Gratuit 
+	URL: https://github.com/getoffmyhack/waveSDR 
+	État: OK
+weile.io 
+	Système: Multiplateforme 
+	Fonction: Réception DAB  
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/AlbrechtL/welle.io 
+	État: OK
+Win-Test 
+	Système: Windows 
+	Fonction: Gestion de concours radio 
+	Licence: Propriétaire 
+	Prix: 50€ 
+	URL: http://www.win-test.com/  
+	État: OK
+WSJTX 
+	Système: Multiplateforme 
+	Fonction: "Modes numériques FT4- FT8- JT4- JT9- JT65- QRA64- ISCAT- MSK144- JS8CALL Émission et réception" 
+	Licence: Open   
+	Prix: Gratuit 
+	URL: http://physics.princeton.edu/pulsar/K1JT/wsjtx.html 
+	État: OK
+WXtoimg 
+	Système: Multiplateforme 
+	Fonction: Décodage images météo satellites 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://wxtoimgrestored.xyz/downloads/ 
+	État: Abandonné
+xastir 
+	Système: Multiplateforme 
+	Fonction: Réception/Émission/Digipeater APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://xastir.org/index.php/Main_Page 
+	État: OK
+Xnec2c 
+	Système: Linux 
+	Fonction: Calcul d'antennes 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.5b4az.org/ 
+	État: OK
+YAAC 
+	Système: Multiplateforme 
+	Fonction: Client APRS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.ka2ddo.org/ka2ddo/YAAC.html 
+	État: OK
