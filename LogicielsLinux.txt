@@ -1,229 +1,292 @@
+ (ARM et x86)" 
+	Système: Linux
+	Fonction: Propriétaire 
+	Licence: Gratuit 
+	Prix: https://gridtracker.org/grid-tracker/  
+	URL: OK 
+	État: X
+ARDOP 
+	Système: Linux
+	Fonction: Mode numérique 
+	Licence:  
+	Prix:  
+	URL: https://ardop.groups.io/g/main/subgroups 
+	État: OK
+csdr 
+	Système: Linux
+	Fonction: Réception SDR en ligne de commande 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/ha7ilm/csdr 
+	État: Abandonné ?
 Cubic SDR 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Réception SDR (émission?) 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/cjcliffe/CubicSDR 
 	État: Arrêté ?
 D-RATS 
-	Système: Multiplateforme 
-	Fonction: "Tranfert de fichiers et Tchat sous DSTAR 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Système: Linux
+	Fonction: Tranfert de fichiers et Tchat sous DSTAR et AX25 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.dstarinfo.com/drats.aspx 
+	État: OK
 DATV Express 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Émission Réception DATV 
 	Licence: Propriétaire 
 	Prix: Gratuit 
 	URL: https://www.datv-express.com/ 
 	État: OK
 Direwolf 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: TNC Packet Radio 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/wb2osz/direwolf 
 	État: OK
 DragonOS 
-	Système: Linux 
+	Système: Linux
 	Fonction: Distribution Linux 
 	Licence:  
 	Prix:  
 	URL: https://sourceforge.net/projects/dragonos-10/ 
 	État: OK
 dump1090 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Réception de ADSB (Avions) 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/adsbxchange/dump1090-fa 
 	État: OK
+DumpVDL2 
+	Système: Linux
+	Fonction: Analyseur VDL Mode 2 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/szpajder/dumpvdl2 
+	État: OK
 dxrfd 
-	Système: Linux 
+	Système: Linux
 	Fonction: Réflecteur DSTAR 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/w1bsb/dxrfd 
 	État: OK
 fldigi (flrig flmsg fl*) 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Décodage multi-modes 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://sourceforge.net/projects/fldigi/  
 	État: OK
 Foxtelem 
-	Système: Multiplateforme 
-	Fonction: "Décodage télémétrie satellite par l'AMSAT" 
+	Système: Linux
+	Fonction: Décodage télémétrie satellite par l'AMSAT 
 	Licence: Libre 
 	Prix: Gratuit 
-	URL: "https://www.amsat.org/foxtelem-software-for-windows-mac-linux/ 
-	État: 
+	URL: https://www.amsat.org/foxtelem-software-for-windows-mac-linux/ https://github.com/ac2cz/FoxTelem 
+	État: OK
 FreeDV 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Voix numérique radioamateur 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://freedv.org/ 
 	État: OK
 FreeDV-TNC 
-	Système: Linux 
+	Système: Linux
 	Fonction: TNC basé sur FreeDV 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/xssfox/freedv-tnc 
 	État: OK
 GNURadio 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Traitement du signal 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://www.gnuradio.org/ 
 	État: OK
-HAM-Clock 
-	Système: Linux 
-	Fonction: Horloge 
+GPredict 
+	Système: Linux
+	Fonction: Suivi de satellites 
 	Licence: Open 
 	Prix: Gratuit 
-	URL: "https://www.clearskyinstitute.com/ham/HamClock/ https://dl1gkk.com/ham-clock-raspberry-pi/" 
+	URL: http://gpredict.oz9aec.net/index.php 
+	État: OK
+GQRX 
+	Système: Linux
+	Fonction: Réception SDR + AX25 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://gqrx.dk/  
 	État: OK
 HAMOS 
-	Système: Linux 
+	Système: Linux
 	Fonction: Distribution Linux 
 	Licence:  
 	Prix:  
 	URL: https://sourceforge.net/projects/hamos/ 
 	État: Abandonné
-hblink3 + hbmon 
-	Système: Linux 
-	Fonction: "Interconnexion de relais radio Master DMR" 
+Inspectrum 
+	Système: Linux
+	Fonction: Analyse de signal 
 	Licence: Open 
 	Prix: Gratuit 
-	URL: "https://hblink-francophone.frama.site/ https://github.com/HBLink-org" 
+	URL: https://github.com/miek/inspectrum 
+	État: OK
+LUARadio 
+	Système: Linux
+	Fonction: Traitement du signal genre GNURadio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/vsergeev/luaradio 
+	État: OK
+multimon-ng 
+	Système: Linux
+	Fonction: Décodage de modes (POCSAG AFSK etc) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/EliasOenal/multimon-ng 
 	État: OK
 NOAA-APT 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Décodage images météo satellites 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://noaa-apt.mbernardi.com.ar/ 
 	État: OK
 OpenWebRX 
-	Système: Linux 
-	Fonction: "Réception SDR + Décodage de quelques modes numériques" 
+	Système: Linux
+	Fonction: Réception SDR + Décodage de quelques modes numériques 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://www.openwebrx.de/ 
 	État: OK
 PAT 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Client Winlink 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://getpat.io/ 
 	État: OK
+QSSTV 
+	Système: Linux
+	Fonction: SSTV + DRM 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://users.telenet.be/on4qz/index.html 
+	État: OK
+QT-DAB 
+	Système: Linux
+	Fonction: Réception DAB (RNT) 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/JvanKatwijk/qt-dab/releases 
+	État: OK
 RadioSonde Auto RX 
-	Système: Linux 
-	Fonction: "Décodage et cartographie télémétrie radiosondes" 
+	Système: Linux
+	Fonction: Décodage et cartographie télémétrie radiosondes 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/projecthorus/radiosonde_auto_rx 
 	État: OK
-RPI OpenWebRX 
-	Système: Linux 
-	Fonction: Distribution pour avoir un openwebrx 
-	Licence:  
+Redhawk 
+	Système: Linux
+	Fonction: Traitement du signal 
+	Licence: Open 
 	Prix: Gratuit 
-	URL: https://www.openwebrx.de/download/rpi.php 
+	URL: https://github.com/RedhawkSDR/redhawk/releases 
 	État: OK
-RPI Pistar 
-	Système: Linux 
-	Fonction: "Controle de carte de mode numérique et d'interconnexion sur réseau" 
-	Licence:  
+RTLSDR-Airband 
+	Système: Linux
+	Fonction: Streaming de voix reçues en SDR (Vers LiveATC) 
+	Licence: Open 
 	Prix: Gratuit 
-	URL: https://www.pistar.uk/ 
-	État: OK
-RPI Satnogs / Artifacts 
-	Système: Linux 
-	Fonction: Distribution pour satnogs 
-	Licence:  
-	Prix: Gratuit 
-	URL: https://wiki.satnogs.org/Raspberry_Pi 
+	URL: https://github.com/szpajder/RTLSDR-Airband 
 	État: OK
 rtl_433 
-	Système: Multiplateforme 
-	Fonction: "Décodage de données 433/868/...  (sondes de températures- de pneus ...)" 
+	Système: Linux
+	Fonction: Décodage de données 433/868/... (sondes de températures; de pneus ...) 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/merbanan/rtl_433 
 	État: OK
 rtl_fm_streamer 
-	Système: Linux 
-	Fonction: "Réception FM Stéréo vers streaming avec VLC- mplayer- Kodi et cie" 
+	Système: Linux
+	Fonction: Réception FM Stéréo vers streaming avec VLC; mplayer; Kodi et cie 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/AlbrechtL/rtl_fm_streamer 
 	État: OK
+SDRAngel 
+	Système: Linux
+	Fonction: Récepteur/Émetteur SDR 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/f4exb/sdrangel 
+	État: OK
 Skywave Linux 
-	Système: Linux 
+	Système: Linux
 	Fonction: Distribution orientée écoute 
 	Licence:  
 	Prix: Gratuit 
 	URL: https://skywavelinux.com/ 
 	État: OK
 SRSLTE 
-	Système: Linux 
+	Système: Linux
 	Fonction: Implémentation 3GPP 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://www.srslte.com/ 
 	État: OK
 SVXLink SVXReflector 
-	Système: Linux 
+	Système: Linux
 	Fonction: Réflecteur analogique 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/sm0svx/svxlink 
 	État: OK
 weile.io 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Réception DAB  
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/AlbrechtL/welle.io 
 	État: OK
 WSJTX 
-	Système: Multiplateforme 
-	Fonction: "Modes numériques FT4- FT8- JT4- JT9- JT65- QRA64- ISCAT- MSK144- JS8CALL Émission et réception" 
+	Système: Linux
+	Fonction: Modes numériques FT4; FT8; JT4; JT9; JT65; QRA64; ISCAT; MSK144; JS8CALL Émission et réception 
 	Licence: Open   
 	Prix: Gratuit 
 	URL: http://physics.princeton.edu/pulsar/K1JT/wsjtx.html 
 	État: OK
 WXtoimg 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Décodage images météo satellites 
 	Licence: Propriétaire 
 	Prix: Gratuit 
 	URL: https://wxtoimgrestored.xyz/downloads/ 
 	État: Abandonné
 xastir 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Réception/Émission/Digipeater APRS 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://xastir.org/index.php/Main_Page 
 	État: OK
 Xnec2c 
-	Système: Linux 
+	Système: Linux
 	Fonction: Calcul d'antennes 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: http://www.5b4az.org/ 
 	État: OK
 YAAC 
-	Système: Multiplateforme 
+	Système: Linux
 	Fonction: Client APRS 
 	Licence: Open 
 	Prix: Gratuit 
