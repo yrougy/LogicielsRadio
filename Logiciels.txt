@@ -1,24 +1,3 @@
- (ARM et x86)" 
-	Système: Affichage de carte pour WSJTX notamment 
-	Fonction: Propriétaire 
-	Licence: Gratuit 
-	Prix: https://gridtracker.org/grid-tracker/  
-	URL: OK 
-	État: X
-"DroidSSTV 
-	Système:  
-	Fonction:  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
-"Universal HAMRadio 
-	Système:  
-	Fonction:  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
 Amateur Radio Toolkit 
 	Système: Android 
 	Fonction: Calculateur et rappels (antennes gains ...) 
@@ -47,13 +26,6 @@ ARDOP
 	Prix:  
 	URL: https://ardop.groups.io/g/main/subgroups 
 	État: OK
-certaines conditions" 
-	Système: https://www.sartrack.co.nz/ 
-	Fonction: OK 
-	Licence: X 
-	Prix:  
-	URL:  
-	État: 
 Cocoa1090 
 	Système: MacOS 
 	Fonction: Réception ADSB (avions) 
@@ -103,20 +75,13 @@ DragonOS
 	Prix:  
 	URL: https://sourceforge.net/projects/dragonos-10/ 
 	État: OK
-DroidPSK" 
+DroidSSTV DroidrTTY DroidPSK 
 	Système: Android 
 	Fonction: Émission/Réception SSTV TTY PSK 
 	Licence: Propriétaire 
 	Prix: 7€ 6€ 6€ 
 	URL: https://play.google.com/store/apps/details?id=com.wolphi.sstv&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.droidrtty&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.psk31&hl=fr&gl=US 
 	État: OK
-DroidrTTY 
-	Système:  
-	Fonction:  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
 dump1090 
 	Système: Multiplateforme 
 	Fonction: Réception de ADSB (Avions) 
@@ -188,19 +153,19 @@ GQRX
 	URL: https://gqrx.dk/  
 	État: OK
 GridTracker 
-	Système: "Multiplateforme 
-	Fonction:  
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+	Système: Multiplateforme  (ARM et x86) 
+	Fonction: Affichage de carte pour WSJTX notamment 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://gridtracker.org/grid-tracker/  
+	État: OK
 HAM-Clock 
 	Système: Linux 
 	Fonction: Horloge 
 	Licence: Open 
 	Prix: Gratuit 
-	URL: "https://www.clearskyinstitute.com/ham/HamClock/ 
-	État: 
+	URL: https://www.clearskyinstitute.com/ham/HamClock/ https://dl1gkk.com/ham-clock-raspberry-pi/ 
+	État: OK
 HAMOS 
 	Système: Linux 
 	Fonction: Distribution Linux 
@@ -227,8 +192,8 @@ hblink3 + hbmon
 	Fonction: Interconnexion de relais radio Master DMR 
 	Licence: Open 
 	Prix: Gratuit 
-	URL: "https://hblink-francophone.frama.site/ 
-	État: 
+	URL: https://hblink-francophone.frama.site/ https://github.com/HBLink-org 
+	État: OK
 Heavens Above 
 	Système: Android + Web 
 	Fonction: Suivi de satellites 
@@ -242,20 +207,6 @@ http://mm-open.org/"
 	Licence: X 
 	Prix:  
 	URL:  
-	État: 
-https://dl1gkk.com/ham-clock-raspberry-pi/" 
-	Système: OK 
-	Fonction: X 
-	Licence:  
-	Prix:  
-	URL: X 
-	État: 
-https://github.com/HBLink-org" 
-	Système: OK 
-	Fonction: X 
-	Licence:  
-	Prix:  
-	URL: X 
 	État: 
 https://play.google.com/store/apps/details?id=org.aprsdroid.app&hl=fr&gl=US" 
 	Système: OK 
@@ -404,13 +355,6 @@ Redhawk
 	Prix: Gratuit 
 	URL: https://github.com/RedhawkSDR/redhawk/releases 
 	État: OK
-Remote" 
-	Système: Raspberrypi 
-	Fonction: Pilotage via Web d'un émetteur récepteur 
-	Licence: Open 
-	Prix: Gratuit 
-	URL: https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5 
-	État: OK
 Robot36 
 	Système: Android 
 	Fonction: Décodage SSTV 
@@ -478,9 +422,9 @@ SARTrack
 	Système: Windows/Android 
 	Fonction: APRS pour Search & Rescue 
 	Licence: Propriétaire 
-	Prix: "Gratuit sous  
-	URL:  
-	État: 
+	Prix: Gratuit sous certaines conditions 
+	URL: https://www.sartrack.co.nz/ 
+	État: OK
 SDR Uno 
 	Système: Windows 
 	Fonction: Réception SDR 
@@ -557,6 +501,13 @@ UIVIEW-AGWPE
 	Licence: Propriétaire 
 	Prix: Donation pour  lutte contre cancer 
 	URL: http://f6bxm.free.fr/carte%20son/7uiview.htm 
+	État: OK
+Universal HAMRadio Remote 
+	Système: Raspberrypi 
+	Fonction: Pilotage via Web d'un émetteur récepteur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5 
 	État: OK
 Universal Radio Hacker 
 	Système: Multiplateforme 

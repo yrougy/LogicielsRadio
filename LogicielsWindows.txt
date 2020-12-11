@@ -1,10 +1,3 @@
- (ARM et x86)" 
-	Système: Windows
-	Fonction: Propriétaire 
-	Licence: Gratuit 
-	Prix: https://gridtracker.org/grid-tracker/  
-	URL: OK 
-	État: X
 Cubic SDR 
 	Système: Windows
 	Fonction: Réception SDR (émission?) 
@@ -53,6 +46,13 @@ GNURadio
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://www.gnuradio.org/ 
+	État: OK
+GridTracker 
+	Système: Windows
+	Fonction: Affichage de carte pour WSJTX notamment 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://gridtracker.org/grid-tracker/  
 	État: OK
 HamRadioDeluxe 
 	Système: Windows

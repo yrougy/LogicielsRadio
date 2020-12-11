@@ -40,12 +40,33 @@ GQRX
 	Prix: Gratuit 
 	URL: https://gqrx.dk/  
 	État: OK
+GridTracker 
+	Système: Android
+	Fonction: Affichage de carte pour WSJTX notamment 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://gridtracker.org/grid-tracker/  
+	État: OK
+HAM-Clock 
+	Système: Android
+	Fonction: Horloge 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.clearskyinstitute.com/ham/HamClock/ https://dl1gkk.com/ham-clock-raspberry-pi/ 
+	État: OK
 HAMPi 
 	Système: Android
 	Fonction: Distribution Linux Raspberry Pi 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/dslotter/HamPi 
+	État: OK
+hblink3 + hbmon 
+	Système: Android
+	Fonction: Interconnexion de relais radio Master DMR 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://hblink-francophone.frama.site/ https://github.com/HBLink-org 
 	État: OK
 multimon-ng 
 	Système: Android
@@ -96,13 +117,6 @@ RadioSonde Auto RX
 	Prix: Gratuit 
 	URL: https://github.com/projecthorus/radiosonde_auto_rx 
 	État: OK
-Remote" 
-	Système: Android
-	Fonction: Pilotage via Web d'un émetteur récepteur 
-	Licence: Open 
-	Prix: Gratuit 
-	URL: https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5 
-	État: OK
 RPI OpenWebRX 
 	Système: Android
 	Fonction: Distribution pour avoir un openwebrx 
@@ -144,6 +158,13 @@ SmallDV
 	Licence: Open 
 	Prix: Gratuit 
 	URL: http://www.kk5jy.net/smalldv-v1/ 
+	État: OK
+Universal HAMRadio Remote 
+	Système: Android
+	Fonction: Pilotage via Web d'un émetteur récepteur 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5 
 	État: OK
 weile.io 
 	Système: Android

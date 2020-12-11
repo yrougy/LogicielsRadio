@@ -4,8 +4,7 @@ MMSSTV,Windows,Décodage SSTV Émission SSTV,"Propriétaire
 Libre depuis 2013",Gratuit,"https://hamsoft.ca/pages/mmsstv.php
 http://mm-open.org/",OK,,X,,,
 WSJTX,Multiplateforme,Modes numériques FT4; FT8; JT4; JT9; JT65; QRA64; ISCAT; MSK144; JS8CALL Émission et réception,Open  ,Gratuit,http://physics.princeton.edu/pulsar/K1JT/wsjtx.html,OK,X,X,X,X,
-GridTracker,"Multiplateforme
- (ARM et x86)",Affichage de carte pour WSJTX notamment,Propriétaire,Gratuit,https://gridtracker.org/grid-tracker/ ,OK,X,X,X,X,
+GridTracker,Multiplateforme  (ARM et x86),Affichage de carte pour WSJTX notamment,Propriétaire,Gratuit,https://gridtracker.org/grid-tracker/ ,OK,X,X,X,X,
 ROS (de EA5HVK),Windows,Mode numérique,Propriétaire,Gratuit,https://rosmodem.wordpress.com/,OK,,X,,,
 UIVIEW-AGWPE,Windows,AX25-Packet APRS,Propriétaire,Donation pour  lutte contre cancer,http://f6bxm.free.fr/carte%20son/7uiview.htm,OK,,X,,,
 SDR Uno,Windows,Réception SDR,Propriétaire,Gratuit,https://www.sdrplay.com/sdruno/ ,OK,,X,,,
@@ -38,8 +37,7 @@ SDRAngel,Linux / Windows 10,Récepteur/Émetteur SDR,Open,Gratuit,https://github
 WXtoimg,Multiplateforme,Décodage images météo satellites,Propriétaire,Gratuit,https://wxtoimgrestored.xyz/downloads/,Abandonné,X,X,X,,
 NOAA-APT,Multiplateforme,Décodage images météo satellites,Open,Gratuit,https://noaa-apt.mbernardi.com.ar/,OK,X,X,X,X,
 RadioSonde Auto RX,Linux,Décodage et cartographie télémétrie radiosondes,Open,Gratuit,https://github.com/projecthorus/radiosonde_auto_rx,OK,X,,,X,
-hblink3 + hbmon,Linux,Interconnexion de relais radio Master DMR,Open,Gratuit,"https://hblink-francophone.frama.site/
-https://github.com/HBLink-org",OK,X,,,X,
+hblink3 + hbmon,Linux,Interconnexion de relais radio Master DMR,Open,Gratuit,https://hblink-francophone.frama.site/ https://github.com/HBLink-org,OK,X,,,X,
 Skywave Linux,Linux,Distribution orientée écoute,,Gratuit,https://skywavelinux.com/,OK,X,,,,
 RPI Satnogs / Artifacts,Linux,Distribution pour satnogs,,Gratuit,https://wiki.satnogs.org/Raspberry_Pi,OK,,,,X,
 RPI OpenWebRX,Linux,Distribution pour avoir un openwebrx,,Gratuit,https://www.openwebrx.de/download/rpi.php,OK,,,,X,
@@ -47,9 +45,7 @@ RPI Pistar,Linux,Controle de carte de mode numérique et d'interconnexion sur r�
 WaveSDR,MacOS,Réception SDR,,Gratuit,https://github.com/getoffmyhack/waveSDR,OK,,,X,,
 Cocoa1090,MacOS,Réception ADSB (avions),Propriétaire,Gratuit,https://www.blackcatsystems.com/software/cocoa1090.html,OK,,,X,,
 SDRSharp,Windows,Réception SDR,Propriétaire,Gratuit,https://airspy.com/download/,OK,,X,,,
-"DroidSSTV
-DroidrTTY
-DroidPSK",Android,Émission/Réception SSTV TTY PSK,Propriétaire,7€ 6€ 6€,https://play.google.com/store/apps/details?id=com.wolphi.sstv&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.droidrtty&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.psk31&hl=fr&gl=US,OK,,,,,X
+DroidSSTV DroidrTTY DroidPSK,Android,Émission/Réception SSTV TTY PSK,Propriétaire,7€ 6€ 6€,https://play.google.com/store/apps/details?id=com.wolphi.sstv&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.droidrtty&hl=fr&gl=US https://play.google.com/store/apps/details?id=com.wolphi.psk31&hl=fr&gl=US,OK,,,,,X
 SDRTouch,Android,Réception SDR,Propriétaire,7,https://play.google.com/store/apps/details?id=marto.androsdr2&hl=fr&gl=US,OK,,,,,X
 AmsatDroid,Android,Suivi de satellites,Propriétaire,Gratuit,https://play.google.com/store/apps/details?id=uk.me.g4dpz.HamSatDroid&hl=fr&gl=US,OK,,,,,X
 Pinpoint APRS,Windows,Cartographie APRS,Propriétaire,Gratuit,https://www.pinpointaprs.com/download.html,OK,,X,,,
@@ -70,13 +66,10 @@ FreeDV-TNC,Linux,TNC basé sur FreeDV,Open,Gratuit,https://github.com/xssfox/fre
 D-RATS,Multiplateforme,Tranfert de fichiers et Tchat sous DSTAR et AX25,Open,Gratuit,http://www.dstarinfo.com/drats.aspx,OK,X,,,,
 QT-DAB,Linux/Windows,Réception DAB (RNT),Open,Gratuit,https://github.com/JvanKatwijk/qt-dab/releases,OK,X,X,,X,
 YAAC,Multiplateforme,Client APRS,Open,Gratuit,https://www.ka2ddo.org/ka2ddo/YAAC.html,OK,X,X,X,X,
-HAM-Clock,Linux,Horloge,Open,Gratuit,"https://www.clearskyinstitute.com/ham/HamClock/
-https://dl1gkk.com/ham-clock-raspberry-pi/",OK,X,,,X,
-SARTrack,Windows/Android,APRS pour Search & Rescue,Propriétaire,"Gratuit sous 
-certaines conditions",https://www.sartrack.co.nz/,OK,X,,,,X
+HAM-Clock,Linux,Horloge,Open,Gratuit,https://www.clearskyinstitute.com/ham/HamClock/ https://dl1gkk.com/ham-clock-raspberry-pi/,OK,X,,,X,
+SARTrack,Windows/Android,APRS pour Search & Rescue,Propriétaire,Gratuit sous certaines conditions,https://www.sartrack.co.nz/,OK,X,,,,X
 Suite UZ7HO,Windows ,Suite pour le packet radio AX25,Propriétaire,Gratuit,http://uz7.ho.ua/packetradio.htm,OK,,X,,,
-"Universal HAMRadio
-Remote",Raspberrypi,Pilotage via Web d'un émetteur récepteur,Open,Gratuit,https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5,OK,,,,X,
+Universal HAMRadio Remote,Raspberrypi,Pilotage via Web d'un émetteur récepteur,Open,Gratuit,https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5,OK,,,,X,
 HAMPi,Raspberrypi,Distribution Linux Raspberry Pi,Open,Gratuit,https://github.com/dslotter/HamPi,OK,,,,X,
 PI_Build,Raspberrypi,Installeur pour applis radio,Open,Gratuit,https://github.com/km4ack/pi-build,OK,,,,X,
 RPITX,Raspberrypi,Emetteur pour le raspberry pi,Open,Gratuit,https://github.com/F5OEO/rpitx,OK,,,,X,
