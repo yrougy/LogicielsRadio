@@ -10,7 +10,7 @@
 
 # We generate the full list
 echo -n "Generating Full list"
-sort --ignore-case -t, -k1,1 Logiciels\ Radio\ -\ Sheet1.csv| awk -F, '{print $1, "\n\tSystème:",$2,"\n\tFonction:",$3,"\n\tLicence:",$4,"\n\tPrix:",$5,"\n\tURL:",$6,"\n\tÉtat:",$7 ;} ' > Logiciels.txt
+sort --ignore-case -t, -k1,1 Logiciels\ Radio\ -\ Sheet1.csv| grep -v "^Nom" |  awk -F, '{print $1, "\n\tSystème:",$2,"\n\tFonction:",$3,"\n\tLicence:",$4,"\n\tPrix:",$5,"\n\tURL:",$6,"\n\tÉtat:",$7 ;} ' > Logiciels.txt
 echo .
 
 # We generate the Windows list

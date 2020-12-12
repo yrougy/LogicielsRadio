@@ -17,8 +17,8 @@ APRSDroid
 	Fonction: APRS 
 	Licence: Open 
 	Prix: Gratuit 
-	URL: "https://aprsdroid.org/ 
-	État: 
+	URL: https://aprsdroid.org/ https://play.google.com/store/apps/details?id=org.aprsdroid.app&hl=fr&gl=US 
+	État: OK
 ARDOP 
 	Système: Windows/Multi? 
 	Fonction: Mode numérique 
@@ -96,6 +96,13 @@ DumpVDL2
 	Prix: Gratuit 
 	URL: https://github.com/szpajder/dumpvdl2 
 	État: OK
+DXLab suite 
+	Système: Windows 
+	Fonction: Suite d'outils pour radioamateurs 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.dxlabsuite.com/ 
+	État: OK
 dxrfd 
 	Système: Linux 
 	Fonction: Réflecteur DSTAR 
@@ -103,6 +110,13 @@ dxrfd
 	Prix: Gratuit 
 	URL: https://github.com/w1bsb/dxrfd 
 	État: OK
+Easypal 
+	Système: Windows 
+	Fonction: Émission/réception SSTV 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: http://www.vk3evl.com/index.php?option=com_content&view=article&id=57&Itemid=62 
+	État: Abandonné
 fldigi (flrig flmsg fl*) 
 	Système: Multiplateforme 
 	Fonction: Décodage multi-modes 
@@ -201,20 +215,6 @@ Heavens Above
 	Prix: Gratuit 
 	URL: https://www.heavens-above.com/ 
 	État: OK
-http://mm-open.org/" 
-	Système: OK 
-	Fonction:  
-	Licence: X 
-	Prix:  
-	URL:  
-	État: 
-https://play.google.com/store/apps/details?id=org.aprsdroid.app&hl=fr&gl=US" 
-	Système: OK 
-	Fonction:  
-	Licence:  
-	Prix:  
-	URL:  
-	État: X
 Inspectrum 
 	Système: Linux 
 	Fonction: Analyse de signal 
@@ -222,13 +222,27 @@ Inspectrum
 	Prix: Gratuit 
 	URL: https://github.com/miek/inspectrum 
 	État: OK
-Libre depuis 2013" 
-	Système: Gratuit 
-	Fonction: "https://hamsoft.ca/pages/mmsstv.php 
-	Licence:  
-	Prix:  
-	URL:  
-	État: 
+jPSKmail 
+	Système: Multiplateforme 
+	Fonction: Passerelle Mail/HF 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.pskmail.org/ 
+	État: OK
+JS8Call 
+	Système: Multiplateforme 
+	Fonction: Dérivé de WSJTX pour le protocole JS8 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://js8call.com/ 
+	État: OK
+JTDX 
+	Système: Multiplateforme 
+	Fonction: Alternative à WSJTDX 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.jtdx.tech/en/ 
+	État: OK
 LUARadio 
 	Système: Linux/MacOS 
 	Fonction: Traitement du signal genre GNURadio 
@@ -239,10 +253,10 @@ LUARadio
 MMSSTV 
 	Système: Windows 
 	Fonction: Décodage SSTV Émission SSTV 
-	Licence: "Propriétaire 
-	Prix:  
-	URL:  
-	État: 
+	Licence: Propriétaire Libre depuis 2013 
+	Prix: Gratuit 
+	URL: https://hamsoft.ca/pages/mmsstv.php http://mm-open.org/ 
+	État: OK
 Morse Code Reader 
 	Système: Android 
 	Fonction: Décodage Morse 
@@ -256,13 +270,6 @@ multimon-ng
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/EliasOenal/multimon-ng 
-	État: OK
-multipsk 
-	Système: Windows 
-	Fonction: Décodeur modes numériques 
-	Licence: Propriétaire 
-	Prix: 30€ 
-	URL: http://f6cte.free.fr/  
 	État: OK
 MySondygo 
 	Système: Android 
@@ -278,19 +285,19 @@ NOAA-APT
 	Prix: Gratuit 
 	URL: https://noaa-apt.mbernardi.com.ar/ 
 	État: OK
-Nom 
-	Système: Plateforme 
-	Fonction: À quoi ça sert ? 
-	Licence: Open / Propriétaire 
-	Prix: Prix 
-	URL: URL 
-	État: État
 OpenAirInterface 
 	Système:  
 	Fonction: Implémentation 3GPP 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://www.openairinterface.org/ 
+	État: OK
+OpenCPN 
+	Système: Multiplateforme 
+	Fonction: Affichage position bateaux en AIS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://opencpn.org/ 
 	État: OK
 OpenWebRX 
 	Système: Linux 
@@ -313,6 +320,13 @@ PAT
 	Prix: Gratuit 
 	URL: https://getpat.io/ 
 	État: OK
+PC-ALE 
+	Système: Windows 
+	Fonction: Transmission HF (Automatic Link Establishment) 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: http://hflink.com/pcale/ 
+	État: OK
 Pinpoint APRS 
 	Système: Windows 
 	Fonction: Cartographie APRS 
@@ -326,6 +340,13 @@ PI_Build
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/km4ack/pi-build 
+	État: OK
+Pothos SDR 
+	Système: Multiplateforme 
+	Fonction: Alternative à GNURadio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/pothosware/PothosSDR 
 	État: OK
 QSSTV 
 	Système: Linux / MacOS? 
@@ -354,6 +375,13 @@ Redhawk
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/RedhawkSDR/redhawk/releases 
+	État: OK
+RMS Express/Winlink 
+	Système: Windows 
+	Fonction: Passerelle Mail/HF 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.winlink.org/ 
 	État: OK
 Robot36 
 	Système: Android 
@@ -453,6 +481,13 @@ SDRTouch
 	Prix: 7 
 	URL: https://play.google.com/store/apps/details?id=marto.androsdr2&hl=fr&gl=US 
 	État: OK
+SIGINTOS 
+	Système: Linux 
+	Fonction: Distribution analyse de signaux 
+	Licence: Open? 
+	Prix: Gratuit 
+	URL: https://www.sigintos.com/ 
+	État: OK
 Skywave Linux 
 	Système: Linux 
 	Fonction: Distribution orientée écoute 
@@ -537,7 +572,7 @@ WaveSDR
 	Prix: Gratuit 
 	URL: https://github.com/getoffmyhack/waveSDR 
 	État: OK
-weile.io 
+welle.io 
 	Système: Multiplateforme 
 	Fonction: Réception DAB  
 	Licence: Open 
@@ -565,6 +600,13 @@ WXtoimg
 	Prix: Gratuit 
 	URL: https://wxtoimgrestored.xyz/downloads/ 
 	État: Abandonné
+X 
+	Système: Windows 
+	Fonction: Décodeur modes numériques 
+	Licence: Propriétaire 
+	Prix: 30€ 
+	URL: http://f6cte.free.fr/  
+	État: OK
 xastir 
 	Système: Linux 
 	Fonction: Réception/Émission/Digipeater APRS 
@@ -599,4 +641,11 @@ yand
 	Licence: Propriétaire 
 	Prix: Gratuit 
 	URL: https://www.ndblist.info/datamodes.htm 
+	État: OK
+Yoniq 
+	Système: Windows 
+	Fonction: Évolution de MMSSTV pour faire de la... SSTV 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://hamsoft.ca/pages/mmsstv-yoniq.php 
 	État: OK

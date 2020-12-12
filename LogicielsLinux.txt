@@ -152,6 +152,27 @@ Inspectrum
 	Prix: Gratuit 
 	URL: https://github.com/miek/inspectrum 
 	État: OK
+jPSKmail 
+	Système: Linux
+	Fonction: Passerelle Mail/HF 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.pskmail.org/ 
+	État: OK
+JS8Call 
+	Système: Linux
+	Fonction: Dérivé de WSJTX pour le protocole JS8 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://js8call.com/ 
+	État: OK
+JTDX 
+	Système: Linux
+	Fonction: Alternative à WSJTDX 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.jtdx.tech/en/ 
+	État: OK
 LUARadio 
 	Système: Linux
 	Fonction: Traitement du signal genre GNURadio 
@@ -173,6 +194,13 @@ NOAA-APT
 	Prix: Gratuit 
 	URL: https://noaa-apt.mbernardi.com.ar/ 
 	État: OK
+OpenCPN 
+	Système: Linux
+	Fonction: Affichage position bateaux en AIS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://opencpn.org/ 
+	État: OK
 OpenWebRX 
 	Système: Linux
 	Fonction: Réception SDR + Décodage de quelques modes numériques 
@@ -186,6 +214,13 @@ PAT
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://getpat.io/ 
+	État: OK
+Pothos SDR 
+	Système: Linux
+	Fonction: Alternative à GNURadio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/pothosware/PothosSDR 
 	État: OK
 QSSTV 
 	Système: Linux
@@ -250,6 +285,13 @@ SDRAngel
 	Prix: Gratuit 
 	URL: https://github.com/f4exb/sdrangel 
 	État: OK
+SIGINTOS 
+	Système: Linux
+	Fonction: Distribution analyse de signaux 
+	Licence: Open? 
+	Prix: Gratuit 
+	URL: https://www.sigintos.com/ 
+	État: OK
 Skywave Linux 
 	Système: Linux
 	Fonction: Distribution orientée écoute 
@@ -271,7 +313,7 @@ SVXLink SVXReflector
 	Prix: Gratuit 
 	URL: https://github.com/sm0svx/svxlink 
 	État: OK
-weile.io 
+welle.io 
 	Système: Linux
 	Fonction: Réception DAB  
 	Licence: Open 

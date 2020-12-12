@@ -68,6 +68,20 @@ hblink3 + hbmon
 	Prix: Gratuit 
 	URL: https://hblink-francophone.frama.site/ https://github.com/HBLink-org 
 	État: OK
+jPSKmail 
+	Système: Android
+	Fonction: Passerelle Mail/HF 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.pskmail.org/ 
+	État: OK
+JTDX 
+	Système: Android
+	Fonction: Alternative à WSJTDX 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.jtdx.tech/en/ 
+	État: OK
 multimon-ng 
 	Système: Android
 	Fonction: Décodage de modes (POCSAG AFSK etc) 
@@ -81,6 +95,13 @@ NOAA-APT
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://noaa-apt.mbernardi.com.ar/ 
+	État: OK
+OpenCPN 
+	Système: Android
+	Fonction: Affichage position bateaux en AIS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://opencpn.org/ 
 	État: OK
 OpenWebRX 
 	Système: Android
@@ -166,7 +187,7 @@ Universal HAMRadio Remote
 	Prix: Gratuit 
 	URL: https://github.com/F4HTB/Universal_HamRadio_Remote_HTML5 
 	État: OK
-weile.io 
+welle.io 
 	Système: Android
 	Fonction: Réception DAB  
 	Licence: Open 

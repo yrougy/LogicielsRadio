@@ -19,6 +19,20 @@ Direwolf
 	Prix: Gratuit 
 	URL: https://github.com/wb2osz/direwolf 
 	État: OK
+DXLab suite 
+	Système: Windows
+	Fonction: Suite d'outils pour radioamateurs 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.dxlabsuite.com/ 
+	État: OK
+Easypal 
+	Système: Windows
+	Fonction: Émission/réception SSTV 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: http://www.vk3evl.com/index.php?option=com_content&view=article&id=57&Itemid=62 
+	État: Abandonné
 fldigi (flrig flmsg fl*) 
 	Système: Windows
 	Fonction: Décodage multi-modes 
@@ -61,12 +75,33 @@ HamRadioDeluxe
 	Prix: env. 100 USD old: gratuite 
 	URL: https://www.hamradiodeluxe.com/ et http://www.asfi-fr.com/vrac/index.php?path=Radio%2FHRD/ 
 	État: OK
-multipsk 
+jPSKmail 
 	Système: Windows
-	Fonction: Décodeur modes numériques 
-	Licence: Propriétaire 
-	Prix: 30€ 
-	URL: http://f6cte.free.fr/  
+	Fonction: Passerelle Mail/HF 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.pskmail.org/ 
+	État: OK
+JS8Call 
+	Système: Windows
+	Fonction: Dérivé de WSJTX pour le protocole JS8 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://js8call.com/ 
+	État: OK
+JTDX 
+	Système: Windows
+	Fonction: Alternative à WSJTDX 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.jtdx.tech/en/ 
+	État: OK
+MMSSTV 
+	Système: Windows
+	Fonction: Décodage SSTV Émission SSTV 
+	Licence: Propriétaire Libre depuis 2013 
+	Prix: Gratuit 
+	URL: https://hamsoft.ca/pages/mmsstv.php http://mm-open.org/ 
 	État: OK
 NOAA-APT 
 	Système: Windows
@@ -74,6 +109,13 @@ NOAA-APT
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://noaa-apt.mbernardi.com.ar/ 
+	État: OK
+OpenCPN 
+	Système: Windows
+	Fonction: Affichage position bateaux en AIS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://opencpn.org/ 
 	État: OK
 Orbitron 
 	Système: Windows
@@ -89,6 +131,13 @@ PAT
 	Prix: Gratuit 
 	URL: https://getpat.io/ 
 	État: OK
+PC-ALE 
+	Système: Windows
+	Fonction: Transmission HF (Automatic Link Establishment) 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: http://hflink.com/pcale/ 
+	État: OK
 Pinpoint APRS 
 	Système: Windows
 	Fonction: Cartographie APRS 
@@ -96,12 +145,26 @@ Pinpoint APRS
 	Prix: Gratuit 
 	URL: https://www.pinpointaprs.com/download.html 
 	État: OK
+Pothos SDR 
+	Système: Windows
+	Fonction: Alternative à GNURadio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/pothosware/PothosSDR 
+	État: OK
 QT-DAB 
 	Système: Windows
 	Fonction: Réception DAB (RNT) 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://github.com/JvanKatwijk/qt-dab/releases 
+	État: OK
+RMS Express/Winlink 
+	Système: Windows
+	Fonction: Passerelle Mail/HF 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://www.winlink.org/ 
 	État: OK
 ROS (de EA5HVK) 
 	Système: Windows
@@ -159,7 +222,7 @@ VARA de EA5HVK
 	Prix: Gratuit / 50€ 
 	URL: https://rosmodem.wordpress.com/ 
 	État: OK
-weile.io 
+welle.io 
 	Système: Windows
 	Fonction: Réception DAB  
 	Licence: Open 
@@ -187,6 +250,13 @@ WXtoimg
 	Prix: Gratuit 
 	URL: https://wxtoimgrestored.xyz/downloads/ 
 	État: Abandonné
+X 
+	Système: Windows
+	Fonction: Décodeur modes numériques 
+	Licence: Propriétaire 
+	Prix: 30€ 
+	URL: http://f6cte.free.fr/  
+	État: OK
 YAAC 
 	Système: Windows
 	Fonction: Client APRS 
@@ -207,4 +277,11 @@ yand
 	Licence: Propriétaire 
 	Prix: Gratuit 
 	URL: https://www.ndblist.info/datamodes.htm 
+	État: OK
+Yoniq 
+	Système: Windows
+	Fonction: Évolution de MMSSTV pour faire de la... SSTV 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://hamsoft.ca/pages/mmsstv-yoniq.php 
 	État: OK

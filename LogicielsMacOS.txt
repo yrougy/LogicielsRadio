@@ -89,6 +89,27 @@ GridTracker
 	Prix: Gratuit 
 	URL: https://gridtracker.org/grid-tracker/  
 	État: OK
+jPSKmail 
+	Système: MacOS
+	Fonction: Passerelle Mail/HF 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://www.pskmail.org/ 
+	État: OK
+JS8Call 
+	Système: MacOS
+	Fonction: Dérivé de WSJTX pour le protocole JS8 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: http://js8call.com/ 
+	État: OK
+JTDX 
+	Système: MacOS
+	Fonction: Alternative à WSJTDX 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://www.jtdx.tech/en/ 
+	État: OK
 LUARadio 
 	Système: MacOS
 	Fonction: Traitement du signal genre GNURadio 
@@ -110,12 +131,26 @@ NOAA-APT
 	Prix: Gratuit 
 	URL: https://noaa-apt.mbernardi.com.ar/ 
 	État: OK
+OpenCPN 
+	Système: MacOS
+	Fonction: Affichage position bateaux en AIS 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://opencpn.org/ 
+	État: OK
 PAT 
 	Système: MacOS
 	Fonction: Client Winlink 
 	Licence: Open 
 	Prix: Gratuit 
 	URL: https://getpat.io/ 
+	État: OK
+Pothos SDR 
+	Système: MacOS
+	Fonction: Alternative à GNURadio 
+	Licence: Open 
+	Prix: Gratuit 
+	URL: https://github.com/pothosware/PothosSDR 
 	État: OK
 rtl_433 
 	Système: MacOS
@@ -131,7 +166,7 @@ WaveSDR
 	Prix: Gratuit 
 	URL: https://github.com/getoffmyhack/waveSDR 
 	État: OK
-weile.io 
+welle.io 
 	Système: MacOS
 	Fonction: Réception DAB  
 	Licence: Open 
