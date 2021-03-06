@@ -92,3 +92,5 @@ Pothos SDR,Multiplateforme,Alternative à GNURadio,Open,Gratuit,https://github.c
 RMS Express/Winlink,Windows,Passerelle Mail/HF,Propriétaire,Gratuit,https://www.winlink.org/,OK,,X,,,
 Yoniq,Windows,Évolution de MMSSTV pour faire de la... SSTV,Open,Gratuit,https://hamsoft.ca/pages/mmsstv-yoniq.php,OK,,X,,,
 SIGINTOS,Linux,Distribution analyse de signaux,Open?,Gratuit,https://www.sigintos.com/,OK,X,,,,
+Skywave Schedules,Android,Programmation des radios ondes courtes,Propriétaire,Gratuit,https://play.google.com/store/apps/details?id=swbcdx.cap.shortwavelist ,OK,,,,,
+WinRPR,Windows,Robust Packet Radio,Propriétaire,Gratuit,https://vapn.org/news/winrpr-saving-robust-packet-from-oblivion.html ,OK,,X,,,

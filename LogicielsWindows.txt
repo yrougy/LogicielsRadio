@@ -236,6 +236,13 @@ Win-Test
 	Prix: 50€ 
 	URL: http://www.win-test.com/  
 	État: OK
+WinRPR 
+	Système: Windows
+	Fonction: Robust Packet Radio 
+	Licence: Propriétaire 
+	Prix: Gratuit 
+	URL: https://vapn.org/news/winrpr-saving-robust-packet-from-oblivion.html  
+	État: OK
 WSJTX 
 	Système: Windows
 	Fonction: Modes numériques FT4; FT8; JT4; JT9; JT65; QRA64; ISCAT; MSK144; JS8CALL Émission et réception 
